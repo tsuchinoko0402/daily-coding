@@ -1,0 +1,4 @@
+(executable
+ (public_name hello_world_list)
+ (name main)
+ (libraries hello_world_list))
